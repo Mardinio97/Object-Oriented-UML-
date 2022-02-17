@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Ws 3 resub:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Ws_3_resub_jar</output-path>
+    <root id="archive" name="Ws 3 resub.jar">
+      <element id="module-output" name="Ws 3 resub" />
+    </root>
+  </artifact>
+</component>
